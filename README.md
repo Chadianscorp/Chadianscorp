@@ -37,7 +37,7 @@ I spent 15+ years in federal consulting (including work supporting ODNI, DC3, Ar
 |---|---|
 | [Enterprise Compliance Control Matrix](https://github.com/Chadianscorp/enterprise-compliance-mapping) | Production-ready compliance matrix mapping 7 asset domains to NIST SP 800-53, ISO 27001, HIPAA, and HITRUST controls with automated Qualys verification and audit evidence trails. |
 | [Enterprise Remediation & Exception Framework](link) | Comprehensive POA&M lifecycle tracker with risk scoring, exception management, compensating control validation, and executive dashboard (aligned to NIST CA-5 and PM-9). (In Progress) |
-| [Honeypot SSH Breach Detection & NIST Control Mapping](https://github.com/Chadianscorp/honeypot-ssh-breach-detection) | Windows honeypot deployment and SSH attack simulation with audit log analysis and firewall remediation — mapped to NIST 800-53 controls (AU-2, SI-4, AC-7, CA-7). |
+| [Honeypot SSH Breach Detection & NIST Control Mapping](https://github.com/Chadianscorp/honeypot-ssh-breach-detection) | Windows honeypot deployment and SSH attack simulation with audit log analysis and firewall remediation (mapped to NIST 800-53 controls AU-2, SI-4, AC-7, CA-7). |
 | [Malware Static & Dynamic Analysis — MITRE ATT&CK Mapping](https://github.com/Chadianscorp/malware-analysis-mitre-attack) | Static and dynamic malware analysis using PEStudio and VirusTotal with MITRE ATT&CK technique mapping — supporting NIST SI-3 and IR-4 control validation. |
 ---
 
