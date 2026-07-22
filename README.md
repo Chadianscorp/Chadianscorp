@@ -34,10 +34,11 @@ I spent 15+ years in federal consulting (including work supporting ODNI, DC3, Ar
 ## 🗂️ Cybersecurity Portfolio Projects
 
 | Project | Core Focus / Description |
-| :--- | :--- |
-| **[Enterprise Compliance Control Matrix](https://github.com/Chadianscorp/enterprise-compliance-mapping)** | A production-ready engineering matrix mapping 6 technical asset domains to NIST SP 800-53 and ISO 27001 controls, featuring automated Qualys Policy Compliance verification rules and exact auditor evidence trails. |
-| **[Splunk Secured Network Architecture Lab](https://github.com/Chadianscorp/splunk-secure-network)** | *(In Progress)* A hands-on engineering lab designing a 3-zone segmented network architecture (User LAN, DMZ, Production) with firewall access control lists (ACLs) and centralized logging routed to a Splunk SIEM pipeline. |
-
+|---|---|
+| [Enterprise Compliance Control Matrix](link) | Production-ready compliance matrix mapping 7 asset domains to NIST SP 800-53, ISO 27001, HIPAA, and HITRUST controls with automated Qualys verification and audit evidence trails. |
+| [Enterprise Remediation & Exception Framework](link) | Comprehensive POA&M lifecycle tracker with risk scoring, exception management, compensating control validation, and executive dashboard — aligned to NIST CA-5 and PM-9. (In Progress) |
+| [Honeypot SSH Breach Detection & NIST Control Mapping](link) | Windows honeypot deployment and SSH attack simulation with audit log analysis and firewall remediation — mapped to NIST 800-53 controls (AU-2, SI-4, AC-7, CA-7). |
+| [Malware Static & Dynamic Analysis — MITRE ATT&CK Mapping](link) | Static and dynamic malware analysis using PEStudio and VirusTotal with MITRE ATT&CK technique mapping — supporting NIST SI-3 and IR-4 control validation. |
 ---
 
 ## 📄 Selected Academic Publications
