@@ -24,6 +24,7 @@ Federal GRC Bundle: FedRAMP, RMF, FISMA, Zero Trust (CISA)
 
 **Training:** FullStack Academy Cybersecurity (2026) • IBM SkillsBuild Cybersecurity (2026) • 
 Google Cybersecurity Professional (2026) • InfraGard Member
+
 ---
 
 ## 🗂️ Cybersecurity Portfolio Projects
