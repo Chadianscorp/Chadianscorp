@@ -1,34 +1,29 @@
 # 👋 Hi, I'm Chad Peddie
+**GRC Analyst | Compliance & Risk Professional | 15+ Years Federal & Corporate Consulting**
 
-**IO Psychologist ➔ Cybersecurity GRC Analyst**
-
-I spent 15+ years in federal consulting (including work supporting ODNI, DC3, Army TOPS, USPS, and DoD) specializing in job analysis, assessment development, and rigorous compliance audits. Today, I bridge the gap between human behavior, organizational processes, and technical security engineering to build robust Governance, Risk, and Compliance (GRC) architectures.
+Experienced GRC and compliance professional with 15+ years of audit, risk assessment, 
+and evidence-based consulting across healthcare, corporate, higher education, and federal 
+sectors. Experience spans AAMC medical education systems, Fortune 500 pharma (Merck), 
+ODNI, DC3, and USPS — translating audit findings into control gaps, remediation roadmaps, 
+and compliance frameworks aligned to NIST, HIPAA, EEO/OFCCP, and ISO standards. 
+Combining deep GRC methodology with long-term programming and analytics expertise 
+(SQL, Python, R, SPSS, SAS, Tableau) to deliver data-driven compliance insights.
 
 ---
-
 ## 🎓 Education
-* **Master of Arts (M.A.) in Industrial-Organizational Psychology** – George Mason University
-* **Bachelor of Science (B.S.) in Psychology** – George Mason University
+* **Master of Arts (M.A.), Industrial-Organizational Psychology** — George Mason University
+* **Bachelor of Science (B.S.), Psychology** — George Mason University
 
 ---
+## 🔐 Certifications & Training
+**GRC Credentials:** GRCP • ITGRC • IRMP (OCEG, 2026) • CCSK (CSA, 2026) • 
+ISO 27001 Lead Implementer (PECB, 2026) • CRISC (ISACA, in progress)
 
-## 🏫 Specialized Cybersecurity Training & Bootcamps
-* **Cybersecurity Bootcamp** – Fullstack Academy (2026)
-* **Cybersecurity Training & Certification Program** – TAG-IBM Initiative (2026)
-* **Google Cybersecurity Professional** - Coursera (2026)
+**Security Credentials:** Security+ (CompTIA) • CC (ISC2) • Qualys Policy Compliance/FIM • 
+Federal GRC Bundle: FedRAMP, RMF, FISMA, Zero Trust (CISA)
 
----
-
-## 🔐 Professional Certifications
-* **CompTIA Security+**
-* **Fortinet Certified Fundamentals (FCF) – Cybersecurity**
-* **Fortinet NSE 1:** Introduction to the Threat Landscape & Getting Started in Cybersecurity
-* **Qualys Policy Compliance (PC)**
-* **IBM SkillsBuild Cybersecurity Certification**
-* **ISC² Certified in Cybersecurity (CC)**
-* **CISA Training:** FedRAMP, Risk Management Framework (RMF), FISMA, Zero Trust Architecture
-* **Framework Competencies:** ISO/IEC 27001, ISO 9001, NIST SP 800-53 Rev. 5
-
+**Training:** FullStack Academy Cybersecurity (2026) • IBM SkillsBuild Cybersecurity (2026) • 
+Google Cybersecurity Professional (2026) • InfraGard Member
 ---
 
 ## 🗂️ Cybersecurity Portfolio Projects
